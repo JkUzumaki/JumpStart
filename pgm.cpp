@@ -2,9 +2,9 @@
 
 int main()
 {
-	int a;
-	int b;
-	int c = a * b;
-	cout << c << endl;
+	int c;
+	int d;
+	int f = c * d;
+	cout << f << endl;
 	return 0;
 }
